@@ -27,7 +27,7 @@ extrusions_required = len(lengths)
 i = 1
 iterator = itertools.permutations(lengths)
 for order in iterator:
-    current_waste = 0
+    current_waste = extrusion_length
     current_extrusions_required = 1
 
     temp_extrusion_length = 0
