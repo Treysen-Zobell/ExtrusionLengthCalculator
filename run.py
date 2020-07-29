@@ -2,7 +2,7 @@
 import itertools
 import time
 
-# 600 600 500 300 300 100 50 50 50 100 500 100 :
+# 600 600 500 300 300 100 50 50 50 100 500 100 : Pretty Ridiculous, Don't Try For Most Efficiency, Just Let It Do A Few Iterations
 # 600 600 500 300 300 100 50 50 50 100 500     : 215509 = 3m26s
 # 600 600 500 300 300 100 50 50 50 100         : 20276  = 2s
 # 600 600 500 300 300 100 50 50 200            : 4482   = 0.4s
